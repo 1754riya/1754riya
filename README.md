@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @1754riya
-- 👀 I’m interested in ...
+  
 
 
 ## GSSOC(24) Badges 🪶
