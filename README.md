@@ -12,16 +12,18 @@ Tools: Git | Gi;tHub | Postman | VS Code | Canva
 CS Fundamentals: OOP, DSA, DBMS, STL, Exception Handling
 
 📈 GitHub Stats:
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riya1754&show_icons=true&theme=radical" alt="Riya's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya1754&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=1754riya&show_icons=true&theme=radical" alt="Riya's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1754riya&layout=compact&theme=radical" alt="Top languages" />
 </p>
+
 
 
 ##  Let's Connect!
 📧 Email: rmehta1754@gmail.com 
 
 
-💼 LinkedIn:www.linkedin.com/in/riya-mehta-5bb64a28a
+💼 LinkedIn: www.linkedin.com/in/riya-mehta-5bb64a28a
 
 “Keep learning, keep building, and never stop exploring the possibilities of tech!”
