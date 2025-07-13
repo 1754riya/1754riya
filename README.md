@@ -40,10 +40,17 @@ Exception Handling
 
 ---
 
+Sure! Here's your **"Let's Connect"** section with **clickable icons** and **links**, perfect for GitHub READMEs, portfolios, or Markdown-supported sites:
+
+---
+
 ## 🤝 Let's Connect
 
-- 📧 **Email:** [rmehta1754@gmail.com](mailto:rmehta1754@gmail.com)  
-- 💼 **LinkedIn:** [riya-mehta-5bb64a28a](https://www.linkedin.com/in/riya-mehta-5bb64a28a/)
+I'm always open to new opportunities, collaboration, or just a good conversation. Connect with me here:
 
+[![Email](https://img.shields.io/badge/Email-rmehta1754@gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:rmehta1754@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Riya%20Mehta-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/riya-mehta-5bb64a28a/)
+[![Discord](https://img.shields.io/badge/Discord-_riru_-%235865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discordapp.com/users/yourUserID/_riru_)
+[![YouTube](https://img.shields.io/badge/YouTube-riyaonreplay-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://youtube.com/@riyaonreplay?feature=shared)
 
 “Keep learning, keep building, and never stop exploring the possibilities of tech!”
