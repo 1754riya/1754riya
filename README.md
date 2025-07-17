@@ -39,9 +39,6 @@ Exception Handling
 </p>
 
 ---
-
-Sure! Here's your **"Let's Connect"** section with **clickable icons** and **links**, perfect for GitHub READMEs, portfolios, or Markdown-supported sites:
-
 ---
 
 ## 🤝 Let's Connect
