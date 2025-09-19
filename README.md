@@ -1,22 +1,18 @@
-<h1 align="center">👋 Hi, I'm Riya</h1>
+<h1 align="center">✨ Hey there, I'm Riya 👋</h1>
 <h3 align="center">🌟 Aspiring Software Developer | Tech Enthusiast | Lifelong Learner</h3>
 
 <!-- Typing SVG Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C4CC&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;Passionate+about+AI+%26+Healthcare+Tech;DSA+%7C+Web+Development+%7C+Open+Source;Always+Learning+New+Things!" alt="Typing Animation" />
-</p>
-
-<!-- Animated GIF Banner -->
-<p align="center">
-  <img src="https://i.gifer.com/3tC.gif" width="70%" alt="Coding Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=9B59B6&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;Passionate+about+AI+%26+Healthcare+Tech;DSA+%7C+Web+Development+%7C+Open+Source;Always+Learning+%26+Building!" alt="Typing Animation" />
 </p>
 
 ---
 
 ## 🚀 About Me
-💻 I'm a **Computer Science & Technology student** at **VIT Bhopal**, passionate about **solving real-world problems with technology**.  
-⚡ Skilled in **Python, C++, and Web Development** with a keen interest in **AI & Healthcare Tech**.  
-🌱 Always exploring, building, and contributing to impactful projects.  
+✨ I'm a **Computer Science & Technology student** at **VIT Bhopal**.  
+💡 I enjoy solving **real-world problems with technology**.  
+⚡ Skilled in **Python, C++, and Web Development** with a focus on **AI & Healthcare Tech**.  
+🌱 Always **learning, exploring, and building impactful projects**.  
 
 ---
 
@@ -46,30 +42,26 @@
 
 ---
 
-## 📈 GitHub Stats & Contributions
+## 📊 GitHub Highlights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1754riya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1754riya&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=1754riya&show_icons=true&theme=radical&hide_border=true&rank_icon=github" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1754riya&layout=compact&theme=radical&hide_border=true" width="47%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=1754riya&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://streak-stats.demolab.com?user=1754riya&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="70%" />
 </p>
 
 <!-- Trophy Section -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=1754riya&theme=radical&no-frame=true&row=1&column=6" width="95%" />
-</p>
-
-<!-- Snake Animation -->
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-profile-trophy.vercel.app/?username=1754riya&theme=onedark&no-frame=true&margin-w=10" width="90%" />
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's Connect  
+
 <p align="center">
   <a href="mailto:rmehta1754@gmail.com"><img src="https://img.shields.io/badge/Email-rmehta1754@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/riya-mehta-5bb64a28a/"><img src="https://img.shields.io/badge/LinkedIn-Riya%20Mehta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -80,6 +72,6 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">  
-  <b>“Keep learning, keep building, and never stop exploring the possibilities of tech!”</b>  
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+  <b>“Keep learning, keep building, and never stop exploring the possibilities of tech!”</b>
 </p>
