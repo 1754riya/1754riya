@@ -50,15 +50,9 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=1754riya&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="70%" />
+  <img src="https://streak-stats.demolab.com/?user=1754riya&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="70%" />
 </p>
 
-<!-- Trophy Section -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=1754riya&theme=onedark&no-frame=true&margin-w=10" width="90%" />
-</p>
-
----
 
 ## 🤝 Let's Connect  
 
