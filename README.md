@@ -1,53 +1,85 @@
-## 👋 Hi, I'm Riya 
-🌟 Aspiring Software Developer | Tech Enthusiast | Lifelong Learner
+<h1 align="center">👋 Hi, I'm Riya</h1>
+<h3 align="center">🌟 Aspiring Software Developer | Tech Enthusiast | Lifelong Learner</h3>
 
-## 🚀 About Me
-I'm a passionate Computer Science & Technology Engineering student at VIT Bhopal, deeply interested in solving real-world problems using technology. With experience in Python, C++, and Web Development, I'm always eager to learn, build, and contribute to impactful projects — especially in healthcare, AI.
-
-## 🛠️ Tech Stack & Skills
-👩‍💻 Languages:-
-
-<p> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/C-00589C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> </p>
-
-🌐 Web Development:-
-
-<p> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> </p>
-
-⚙️ Tools & Platforms:-
-
-<p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" /> </p>
-
-📚 Computer Science Fundamentals:-
-
-Data Structures & Algorithms (DSA), 
-Object-Oriented Programming (OOP), 
-Database Management Systems (DBMS), 
-Standard Template Library (STL), 
-Exception Handling
-
-
-
-## 📈 GitHub Stats
-
+<!-- Typing SVG Animation -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1754riya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Riya's GitHub Stats" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1754riya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="47%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C4CC&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;Passionate+about+AI+%26+Healthcare+Tech;DSA+%7C+Web+Development+%7C+Open+Source;Always+Learning+New+Things!" alt="Typing Animation" />
 </p>
 
+<!-- Animated GIF Banner -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=1754riya&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
+  <img src="https://i.gifer.com/3tC.gif" width="70%" alt="Coding Animation" />
 </p>
 
 ---
+
+## 🚀 About Me
+💻 I'm a **Computer Science & Technology student** at **VIT Bhopal**, passionate about **solving real-world problems with technology**.  
+⚡ Skilled in **Python, C++, and Web Development** with a keen interest in **AI & Healthcare Tech**.  
+🌱 Always exploring, building, and contributing to impactful projects.  
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+**👩‍💻 Languages**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js" />
+</p>
+
+**🌐 Web Development**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+**⚙️ Tools & Platforms**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,canva" />
+</p>
+
+**📚 CS Fundamentals:**  
+- Data Structures & Algorithms (DSA)  
+- Object-Oriented Programming (OOP)  
+- Database Management Systems (DBMS)  
+- Standard Template Library (STL)  
+- Exception Handling  
+
+---
+
+## 📈 GitHub Stats & Contributions
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=1754riya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1754riya&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=1754riya&theme=tokyonight&hide_border=true" width="60%" />
+</p>
+
+<!-- Trophy Section -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=1754riya&theme=radical&no-frame=true&row=1&column=6" width="95%" />
+</p>
+
+<!-- Snake Animation -->
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 ---
 
 ## 🤝 Let's Connect
+<p align="center">
+  <a href="mailto:rmehta1754@gmail.com"><img src="https://img.shields.io/badge/Email-rmehta1754@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/riya-mehta-5bb64a28a/"><img src="https://img.shields.io/badge/LinkedIn-Riya%20Mehta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://discordapp.com/users/yourUserID/_riru_"><img src="https://img.shields.io/badge/Discord-_riru_-%235865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://youtube.com/@riyaonreplay?feature=shared"><img src="https://img.shields.io/badge/YouTube-riyaonreplay-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+</p>
 
-I'm always open to new opportunities, collaboration, or just a good conversation. Connect with me here:
+---
 
-[![Email](https://img.shields.io/badge/Email-rmehta1754@gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:rmehta1754@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Riya%20Mehta-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/riya-mehta-5bb64a28a/)
-[![Discord](https://img.shields.io/badge/Discord-_riru_-%235865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discordapp.com/users/yourUserID/_riru_)
-[![YouTube](https://img.shields.io/badge/YouTube-riyaonreplay-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://youtube.com/@riyaonreplay?feature=shared)
-
-“Keep learning, keep building, and never stop exploring the possibilities of tech!”
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">  
+  <b>“Keep learning, keep building, and never stop exploring the possibilities of tech!”</b>  
+</p>
