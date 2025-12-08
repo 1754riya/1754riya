@@ -1,59 +1,34 @@
-🌟 Riya | Aspiring Software Developer
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=A471FF&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Riya+👋;Aspiring+Software+Developer+💻;AI+%26+Healthcare+Tech+Enthusiast+🧠+❤️;Web+Dev+%7C+DSA+%7C+Open+Source;Always+learning+something+new+✨" /> </div>
-✨ About Me
+<h1 align="center">✨ Hey there, I'm Riya 👋</h1>
+<h3 align="center">🌟 Aspiring Software Developer | Tech Enthusiast | Lifelong Learner</h3>
+<!-- Typing SVG Animation --> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=9B59B6&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;Passionate+about+AI+%26+Healthcare+Tech;DSA+%7C+Web+Development+%7C+Open+Source;Always+Learning+%26+Building!" alt="Typing Animation" /> </p>
+🚀 About Me
 
-🎓 CSE student at VIT Bhopal
-🚀 Passionate about Software Development, AI, and Healthcare Tech
-📈 I love solving problems through DSA, building intuitive web apps, and exploring modern technologies.
-🌱 Currently learning Advanced DSA, Backend Development, and AI fundamentals
-💡 Always curious, always building, always improving.
+✨ I'm a Computer Science & Technology student at VIT Bhopal.
+💡 I enjoy solving real-world problems with technology.
+⚡ Skilled in Python, C++, and Web Development with a strong interest in AI & Healthcare Tech.
+🌱 Always learning, exploring, and building impactful projects.
 
-🛠️ Tech Stack
-💻 Languages
-<div align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css" /> </div>
+🛠️ Tech Stack & Skills
+👩‍💻 Languages
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js" /> </p>
 🌐 Web Development
-<div align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /> </div>
+<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /> </p>
 ⚙️ Tools & Platforms
-<div align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,canva,linux" /> </div>
-📚 Computer Science Fundamentals
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,canva" /> </p>
+📚 CS Fundamentals
 
-Data Structures & Algorithms
+Data Structures & Algorithms (DSA)
 
-Object-Oriented Programming
+Object-Oriented Programming (OOP)
 
-DBMS & SQL
+Database Management Systems (DBMS)
 
-Operating Systems
-
-STL (C++)
+Standard Template Library (STL)
 
 Exception Handling
 
-🌈 GitHub Highlights
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=1754riya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1754riya&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=1754riya&theme=tokyonight&hide_border=true" width="70%" /> </div>
-⭐ Featured Quote
-<div align="center">
-
-✨ "Keep learning, keep building, and never stop exploring the possibilities of tech!" ✨
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">
-
-</div>
-🤝 Connect With Me
-<div align="center">
-
-<a href="mailto:rmehta1754@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/riya-mehta-5bb64a28a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://discordapp.com/users/yourUserID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="https://youtube.com/@riyaonreplay"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-
-<br><br>
-
-<a href="https://portfolio-1754riyas-projects.vercel.app/"><img src="https://img.shields.io/badge/🌐 Portfolio-8e44ad?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-
-</div>
-💫 Aesthetic Footer
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8e44ad,100:9b59b6&section=footer" /> </div>
+📊 GitHub Highlights
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=1754riya&show_icons=true&theme=radical&hide_border=true&rank_icon=github" width="47%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1754riya&layout=compact&theme=radical&hide_border=true" width="47%" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=1754riya&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="70%" /> </p>
+🤝 Let's Connect
+<p align="center"> <a href="mailto:rmehta1754@gmail.com"><img src="https://img.shields.io/badge/Email-rmehta1754@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/riya-mehta-5bb64a28a/"><img src="https://img.shields.io/badge/LinkedIn-Riya%20Mehta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://discordapp.com/users/yourUserID"><img src="https://img.shields.io/badge/Discord-_riru_-%235865F2?style=for-the-badge&logo=discord&logoColor=white"></a> <a href="https://youtube.com/@riyaonreplay?feature=shared"><img src="https://img.shields.io/badge/YouTube-riyaonreplay-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> </p>
+<p align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"><br> <b>“Keep learning, keep building, and never stop exploring the possibilities of tech!”</b> </p>
